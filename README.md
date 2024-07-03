@@ -6,7 +6,7 @@ This project aims to provide an in-depth analysis of the features of songs avail
 
 ## Dataset
 
-The dataset used in this project is obtained from [Kaggle Spotify Dataset](https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db). It contains songs with various Spotify features.
+The datasets used in this project is obtained from [Kaggle Spotify Dataset tracks.csv](https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db) and [Kaggle Spotify Dataset artists.csv](https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets). It contains songs with various Spotify features.
 
 ## Installation
 
@@ -15,12 +15,7 @@ To run the project locally, follow these steps:
 1. Clone this repository:
     ```bash
     git clone https://github.com/Gulciha-n/Spotify-Features-Data-Analysis-Project.git
-    ```
-
-2. Download the dataset and place it in the `data` folder:
-    [Kaggle Spotify Dataset](https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db)
-
-
+    
 ## Contributing
 
 If you would like to contribute, please create a pull request or open an issue. Your feedback is highly appreciated.
